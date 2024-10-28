@@ -1,4 +1,4 @@
-# Weather Forecast App 🌤️
+# Previsão do tempo App 🌤️
 Este é um projeto de previsão do tempo desenvolvido em React. Ele permite aos usuários consultar a previsão meteorológica de qualquer cidade, fornecendo informações detalhadas sobre a temperatura, umidade, velocidade do vento e outras condições climáticas em tempo real.
 
 # Funcionalidades
